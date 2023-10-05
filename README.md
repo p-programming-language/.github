@@ -1,2 +1,2 @@
-# README.p
-P is a general purpose, statically-typed, compiled language. Written in typescript
+# The P Programming Language
+P is a general purpose, statically-typed, interpreted language written in 100% TypeScript.
